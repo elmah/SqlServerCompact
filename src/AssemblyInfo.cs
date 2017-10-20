@@ -35,7 +35,7 @@ using InternalsVisibleToAttribute = System.Runtime.CompilerServices.InternalsVis
 [assembly: AssemblyDescription("Microsoft SQL Server Compact Edition Support for ELMAH")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ELMAH")]
-[assembly: AssemblyCopyright("Copyright \u00a9 2004, Atif Aziz. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright \u00a9 Erik Ejlskov Jensen. All rights reserved.")]
 [assembly: AssemblyCulture("")]
 
 [assembly: AssemblyVersion("2.0.11227.0")]

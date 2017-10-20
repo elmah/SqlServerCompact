@@ -21,8 +21,6 @@
 //
 #endregion
 
-[assembly: Elmah.Scc("$Id: SqlServerCompactErrorLog.cs 925 2011-12-23 22:46:09Z azizatif $")]
-
 namespace Elmah.SqlServerCompact
 {
     #region Imports
